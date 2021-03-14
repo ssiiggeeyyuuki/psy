@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"ユッコ番長SV","characterIndex":0,"characterName":"","classId":1,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"","traits":[{"code":43,"dataId":8,"value":1},{"code":43,"dataId":9,"value":1},{"code":43,"dataId":10,"value":1}],"initialLevel":1,"maxLevel":99,"name":"ユッコ","nickname":"サイキック番長","note":"<FTKR_ACTOR_COMMAND: custom 1 true 1 0>\n<FTKR_ACTOR_COMMAND: custom 2 true 2 0>\n<FTKR_ACTOR_COMMAND: custom 3 true 3 0>\n<Speech/Start:初めまして！　謎の転校生ユッコです！>\n<Speech/Skill:正義のタイマンです！,サイキックタイマンです！>\n<Speech/Skill[17]:ムムーン…ムンッ！>\n<Speech/Damage:上等です！,負けませんよ！>\n<Speech/Miss:危ないですよっ！？>\n<Speech/Evasion:フフフ、楽勝です>\n<Speech/Item:サイキックパワー注入！,パワーがみなぎってきました！>\n<Speech/Victory:サイキック・大勝利ですね！,テッペン取りました！>\n","profile":""}
+]
